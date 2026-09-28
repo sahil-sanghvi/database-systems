@@ -19,8 +19,7 @@ Each `.sql` file is standalone and annotated with the question it answers. Load 
 
 ## 🎓 Project Context
 
-Built as part of **CSC 370: Database System Management** at the University of
-Victoria.
+Built as part of **CSC 370: Database Systems** at the University of Victoria.
 
 ## ⚠️ Academic Integrity Notice
 
